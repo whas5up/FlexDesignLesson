@@ -9,9 +9,6 @@
     display: block;
     padding: 15px 5px;
 }
-.menu li.subitem a {
-    padding: 15px;
-}
 .toggle {
     order: 1;
     font-size: 20px;
