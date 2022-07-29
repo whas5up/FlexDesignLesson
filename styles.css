@@ -50,3 +50,19 @@ header {
     font-size: 2rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+#plans {
+    display: flex;
+    flex-wrap: wrap;
+
+
+
+}
+
+.plan {
+    background: black;
+    color: white;
+    width: 200px;
+    margin: 25px;
+    padding: 25px;
+}
